@@ -1,0 +1,41 @@
+﻿Project: Zomato Customer Analysis
+Project Goal:
+To analyze Zomato's customer base to identify key segments, understand their behavior, and uncover opportunities for targeted marketing and retention strategies.
+Data Analysis Tasks:
+Part 1: Customer Segmentation
+* Demographic Segmentation:
+   * Analyze customer demographics (age, gender, location).
+   * Identify key demographic segments.
+* Behavioral Segmentation:
+   * Analyze customer purchase frequency, order value, and preferred cuisines.
+   * Identify customer segments based on their ordering behavior.
+* RFM Analysis:
+   * Analyze customer recency, frequency, and monetary value.
+   * Identify high-value customers and potential churners.
+Part 2: Customer Behavior Analysis
+* Order Patterns:
+   * Analyze order frequency and timing (e.g., peak hours, days of the week).
+   * Identify trends and patterns in order behavior.
+* Customer Preferences:
+   * Analyze customer preferences for cuisines, restaurants, and delivery methods.
+   * Identify popular items and dishes.
+* Customer Satisfaction:
+   * Analyze customer reviews and ratings.
+   * Identify factors influencing customer satisfaction.
+Part 3: Customer Churn Analysis
+* Identify Churners:
+   * Define churn metrics (e.g., churn rate, customer lifetime value).
+   * Identify customers who have stopped using the platform.
+* Analyze Churn Reasons:
+   * Analyze customer feedback and survey responses.
+   * Identify the main reasons for customer churn.
+* Predict Churn:
+   * Build predictive models to identify customers at risk of churning.
+Technical Skills:
+* Data cleaning and preprocessing
+* Data analysis and visualization
+* Statistical analysis
+* Programming languages (Python, R, SQL)
+* Data visualization tools (Tableau, Power BI)
+* Machine learning techniques (for churn prediction)
+By completing this project, we aim to provide valuable insights into Zomato's customer base, enabling targeted marketing campaigns, personalized recommendations, and improved customer retention strategies.
