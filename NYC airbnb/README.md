@@ -6,15 +6,8 @@
 DESCRIPTION OF PROJECT SCOPE, ROLES, & RESPONSIBILITIES (USE AI)
 
 
-[<img src="URL OF IMAGE" alt="First Sheet of Project**">](URL OFDESTINATION)
 
-### Table of Contents for Repository Artifacts
-| File Number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | [FINISHED FILE NAME HERE](URL HERE) | DESCRIPTION HERE |
-| 2 | [RAW DATA FILE HERE](URL HERE) | DESCRIPTION HERE |
-| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 4 | [Requirements.txt](URL HERE) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+
 
 ### Table of Contents for README
 | Section Title | Description |
@@ -49,10 +42,9 @@ DESCRIPTION HERE:
 #### Recommendations/Results:
 - LIST ALL FUTURE RECS HERE
 
-[<img src="IMAGE CAPTURE URL HERE">](DESTINATION URL HERE)
 
-The video overview can be found <a href='INSERT VIDEO URL HERE' target=_blank><u>here</u>.</a>.
-DOCUMENT TYPE page can be found <a href='INSERT URL HERE' target=_blank><u>here</u>.</a>.
+
+
 
 #### Notes:
 LIST ANY NOTES (such as, if a draft page is a requirement)
